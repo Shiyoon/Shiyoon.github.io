@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "dreaming";
+    src: url(../dreaming/Dreaming.ttf);
+}
+ 
+html {
+    background-color: #fbd1be;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "dreaming";
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.heading {
+    margin-left: 45px;
+    margin-top: 40px;
+}
+
+
+
+.container {
+    position: relative;
+    top: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.subheading {
+    margin-left: 30px;
+    position: relative;
+    top: 58px;
+    left: 20px;
+}
+
+p {
+    font-size: 17px;
+    font-family: "Raleway";
+    
+}
+
+.block {
+    border: 10px solid #dfb4c1;
+    padding: 20px;
+    margin: 40px 25px;
+}
+
+.color-block div {
+    display: inline-block;
+    border: 2px solid white;
+    margin: 30px 20px 30px 30px;
+    width: 180px;
+    height: 160px;
+}
+
+
+.color-block p {
+    text-align: center;
+    margin-top: 170px;
+}
+
+
+
+.f6daba {
+    background-color: #f6daba;
+}
+
+.fbd1be {
+    background-color: #fbd1be;
+}
+
+.dfb4c1 {
+    background-color: #dfb4c1;
+}
+
+.afaee9 {
+    background-color: #afaee9;
+}
+
+.a263f6d {
+    background-color: #263f6d;
+}
+
+
+.font-block div {
+    display: inline-block;
+  
+    margin: 20px 50px 20px 40px;
+    
+    font-size: 30px;
+    
+}
+
+
+
+.dreaming {
+    font-family: "dreaming";
+}
+
+.bhutuka {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.raleway_italic {
+    font-family: 'Raleway';
+    font-style: italic;
+    
+}
+
+.text-styles .block {
+    padding: 55px 35px 35px 35px;
+}
+
+
+.text-styles .block div {
+    border: 2px solid #dfb4c1;
+    text-align: left;
+
+    padding: 17px 0px 15px 35px;
+    
+}
+
+
